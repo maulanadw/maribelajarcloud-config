@@ -1,1 +1,1 @@
-# microsoft-cloud-capstone
+# Templates for Configuring Moodle and Azure DNS zone
